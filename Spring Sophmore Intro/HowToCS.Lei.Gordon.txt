@@ -1,0 +1,39 @@
+Lei,Gordon
+Intro2,pd01
+HW8
+2016-03-04
+
+1. What are two parts that you wish someone told you earlier. Briefly explain why.
+
+I wish that someone told me to compare my work with the teacher or my peers.
+By doing this, I can learn multiple ways to solve the problem, showing that I better understand the problem.
+I also wish that I learned to understand today's material better than just shrugging it off.
+There are several times where I did not understand a certain idea and I did not bother to understand it. 
+Instead, I thought that I could understand it better by self-studying when I have the time too.
+I should also ask questions in order to understand the material so I can better understand today's material. 
+
+2. What are two parts that you want to know more about/why.
+
+One part that I would like to learn more about is how to make more effective code. 
+In my opinion, I would rather use a more effective code that has the same results than a long code that will return the same result. 
+Learning to make more concise and effective code also saves time and is easier to understand. 
+I would also like to learn about why reading other solutions routinely may teach ideas that would occur otherwise. 
+Not all other solutions can be applied to other problems. 
+Sometimes when you trying to solve the problem, thinking of another solution may not even come to your mind. 
+
+3. What is at least one part that you strongly agree with, or that you think resonate with you?
+
+I strongly agree with the part about working on a problem by yourself first. 
+In my opinion, it is better to try to figure out your mistakes in order to learn how to correct your mistakes. 
+If I am stuck on a certain problem, I will try to write out my desired steps on paper to help me better understand the problem. 
+Eventually, if you still cannot understand your error, I agree with the fact that you should then seek help.
+
+
+4. What is at least one part that you disagree with, or have a strong feeling that an alternate path is better for you?
+
+
+I somewhat disagree with the part that people can no longer rely on absorbing a pattern through repetition.
+Although most problems are different, some problems, such as the problems about strings, have a pattern to them. 
+I had to recognize and understand the pattern about how to take specific segments of strings in order to solve the problems.
+Pattern recognition also helps me when I am trying to solve a problem that uses recursion.
+

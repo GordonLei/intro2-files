@@ -1,0 +1,23 @@
+2016-05-16
+
+Gordon Lei: Made Final Project, images, data folder.
+	-Created ResetAccounts.py (erases saveFiles)
+		saveFiles.txt (Holds account data/inventory)
+		stats.txt and inventory(acts like a global variable for stats and inventory)
+		StatsStlyeSheet.txt (displays inventory and stats)
+		displayPage.py (displays stats and inventory)
+		ststChange.py (distribute stat points)
+
+2016-05-19
+
+Gordon Lei: Made Introduction Page
+	-Took Mr.K's writeOrReplace function from Mr.K's code
+	-Used my own login.py(renamed loginFixer.py) and craetaccount.py
+	-Craeted TextSoul301.jpg image
+
+2016-05-20:
+
+-Created intro.py
+-Added death counter (death.txt and added daeth to createaccount.py)
+-Made bar graph thing at top left corner. 
+-Made left.py and right.py (both have no function yet)

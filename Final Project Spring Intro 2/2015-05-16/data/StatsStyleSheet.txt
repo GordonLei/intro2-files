@@ -1,0 +1,15 @@
+<style>
+.inventory{
+	border: 1px solid black;
+	position: fixed;
+	left: 0;
+	top: 25%;}
+.stats{
+	border: 1px solid black;
+	position: fixed;
+	left: 0;
+	top: 75%;}
+
+		
+</style>
+

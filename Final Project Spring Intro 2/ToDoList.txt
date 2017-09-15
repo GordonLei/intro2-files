@@ -1,0 +1,22 @@
+To Do List:
+
+MANDATORY:
+1) make LoginFixer work to let you login
+2) find a way to save processes and ivnenotry/stats
+4) StatChanges.py
+
+3)Actual GameL
+	-Intro 
+	-Battle 1
+	-Battle 2
+	- Boss 1
+	_Battle 1
+	-Battle 2
+	-Boss 2
+	-Battle 1
+	-Battle 2
+	-Final Boss
+
+NOT REQUIRED:
+1) PRETTYIFY STUFF
+2) Music

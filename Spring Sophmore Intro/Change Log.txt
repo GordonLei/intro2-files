@@ -1,0 +1,19 @@
+2016-05-19
+
+In Class:
+-We used Mr.K's createaccount.py, createOrReserFiles.py,login.py and mainpage.py(renamed profile.py) but editied for our use. 
+-We created homepage.html and makePost.html
+
+2016-05-22
+
+Home:
+-Re-edited all files (createaccount.py, createOrResetFiles.py, login.py, profile.py)
+-Created login.py and display.py (Was scrapped and put into profile.py instead)
+-Edited profile.py so that the makepage() will show posts and will allow a make post option.
+
+2016-05-23
+
+In Class:
+-We used Gordon's pfoile.py but ediited it to not include automatic '<h1>' after titles and '<p>' after textBody.
+-Edited profile.py's displayPost.py / makePost.py so taht they will include a bodyTag, titleTag, commentTag.
+

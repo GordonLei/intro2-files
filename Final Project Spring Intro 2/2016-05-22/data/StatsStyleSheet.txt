@@ -1,0 +1,23 @@
+<style>
+.inventory{
+	border: 1px solid black;
+	position: fixed;
+	left: 0;
+	top: 25%;}
+.stats{
+	border: 1px solid black;
+	position: fixed;
+	left: 0;
+	top: 75%;}
+.bar{
+	position:fixed;
+	top:0;
+	left:0;}
+.HPbar{
+	background-color:red;
+	color:red;}
+.ManaBar{background-color:blue;
+	color:blue;}
+		
+</style>
+

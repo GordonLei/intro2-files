@@ -1,0 +1,38 @@
+2016-05-19
+
+In Class:
+-We used Mr.K's createaccount.py, createOrReserFiles.py,login.py and mainpage.py(renamed profile.py) but editied for our use. 
+-We created homepage.html and makePost.html
+
+2016-05-22
+
+Home:
+-Re-edited all files (createaccount.py, createOrResetFiles.py, login.py, profile.py)
+-Created login.py and display.py (Was scrapped and put into profile.py instead)
+-Edited profile.py so that the makepage() will show posts and will allow a make post option.
+
+2016-05-23
+
+In Class:
+-We used Gordon's pfoile.py but ediited it to not include automatic '<h1>' after titles and '<p>' after textBody.
+-Edited profile.py's displayPost.py / makePost.py so taht they will include a bodyTag, titleTag, commentTag.
+
+2016-05-24
+
+In Class:
+-We used Gordon's pfoile.py but ediited it to not include automatic '<h1>' after titles and '<p>' after textBody.
+-Started on comment system
+At Home:
+-Attempted to make comment buttons (worked)
+-Attempted to redirect to postExapnded.py(worked)
+-Attempted to make comments in postExpanded (not working)
+
+2016-05-25:
+
+In Class: 
+-Indivudally work on our comment system (will use which one works first + which one works better)
+
+At Home:
+-Completed part of my comment section (postExpanded.py)
+-Does not allow comments to work; only displays the original post + the option to make a comment.
+-ERROR: cookie does not have a 'postID' variable yet. Tomorrow need to work on how to add variables to existing cookies. 
