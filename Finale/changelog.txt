@@ -1,0 +1,149 @@
+2016-05-19
+
+In Class:
+-We used Mr.K's createaccount.py, createOrReserFiles.py,login.py and mainpage.py(renamed profile.py) but editied for our use. 
+-We created homepage.html and makePost.html
+
+2016-05-22
+
+Home:
+-Re-edited all files (createaccount.py, createOrResetFiles.py, login.py, profile.py)
+-Created login.py and display.py (Was scrapped and put into profile.py instead)
+-Edited profile.py so that the makepage() will show posts and will allow a make post option.
+
+2016-05-23
+
+In Class:
+-We used Gordon's pfoile.py but ediited it to not include automatic '<h1>' after titles and '<p>' after textBody.
+-Edited profile.py's displayPost.py / makePost.py so taht they will include a bodyTag, titleTag, commentTag.
+
+2016-05-24
+
+In Class:
+-We used Gordon's pfoile.py but ediited it to not include automatic '<h1>' after titles and '<p>' after textBody.
+-Started on comment system
+At Home:
+-Attempted to make comment buttons (worked)
+-Attempted to redirect to postExpanded.py(worked)
+-Attempted to make comments in postExpanded (not working)
+
+2016-05-25:
+
+In Class: 
+-Indivudally work on our comment system (will use which one works first + which one works better)
+
+At Home:
+-Completed part of my comment section (postExpanded.py)
+-Does not allow comments to work; only displays the original post + the option to make a comment.
+-ERROR: cookie does not have a 'postID' variable yet. Tomorrow need to work on how to add variables to existing cookies. 
+
+2016-05-26:
+
+In Class:
+-Work on "Do-Now" problem. 
+
+At home:
+-Attempted to fix comment system by recreating the cookie with username, ID,postID (Didn't work)
+-Attempted to fix comment system by creating another cookie with postID (doesn't work yet)
+
+2016-05-27:
+
+In Class:
+-Stanley rewrote all of the files to incorporate objects/classes and the module pickle. 
+-I will be using his new python file now.
+-We created the upvote/downvote buttons.
+-We replaced the original comment button (was a button with the postObj.id as the value) with a link instead
+	-So the link is now: <a href=PYTHON FILE HERE> Comment </a>
+
+2016-05-30:
+
+At Home:
+-Stanley mass re-wrote all of the codes to better incorporate python classes. 
+	-Basically he cleaned up all the code to make it neater and not kill people's eyesight and brain cells. 
+-I took ~one hour reading about python classes in order to help incorporate it into our files.
+-I editied profile.py to add a search bar for usernames.
+	-This links to search.py that I created.
+		- This .py file shows the "searched user"'s posts and if the name exists. 
+		- Add-Friend Option (33% done)
+			-Does not allow you to add yourself
+			-Adding new friends works [Does not work yet]
+			-Does not allow you to add new friends [Does not work yet]
+			-Sends friend request [Did nto start on yet]
+
+2016-05-31:
+
+In Class:
+-Stanley compelted the inbox portion of the project and is starting on the adding friend option.
+-I am working on improving upvotes/downvotes:
+	-worked on the concept of how to upvote/downvote
+
+At home:
+-I revised the upvotes/downvotes system so it now has a limit (one person cannot have two votes but they can change from up vote to downvote)
+	-Works on profile.py
+-Worked on adding upvotes/downvotes on search.py:
+	-It works but there is a slight lag / time-issue. (You need to press the vote link twice in order to see the new changes)
+-
+
+2016-06-02:
+
+In Class:
+-Began to revise upvotes/downvotes for postExpanded.py (the comment section).
+
+At Home:
+-Completed the voting system for postExpanded.py + the limitations on voting for that part.
+-Created postExpandedSearch.py (for commenting on posts that you search/ posts that you did not make). 
+	-Now this file allows you to comment on other people's posts.
+
+2016-06-03:
+In Class:
+-Began working on groups.py
+	-This will allow facebook-like groups to be made.
+	-Mainly worked on the __init__ parts of the Group objects and what functions/attributes to include in it.
+
+2016-06-04:
+At home:
+-After many hours, blood, sweat, tears, water, etc./whatever makes this sound cool, I completed the part to make groups.
+	-Groups can now be created and if the name is already taken, you cannot make that group.
+	-You can view groups which redirects you to groupsPage.py (this is the posting section of the groups).
+
+PROBLEMS: 
+-Add member / kick member on groupsPage.py does not work.
+
+2016-06-05:
+At home:
+-;=; I fixed the kick/add member (I did not call the name attributes of the object). 
+-I added the part where you cannot kick yourself.
+	-Also made kick/add member only display if you are the admin. 
+-Groups can now post things onto the group.
+	-Include upvotes/downvotes.
+-I noticed that I limited the votes incorrectly:
+	-Say you upvoted once but want to change your choice. Assume the post is at '0' and when you upvote, it becomes '1'
+	-When you downvote to remove your upvote, it goes to '0' not '-1'.
+-Fixed voting on most if not all of the .py files. 
+	-Made an option to remove your votes.
+	-Remove votes does not work yet for some reason.
+
+2016-06-06:
+In Class:
+-Never mind, voting actually works after I fixed it yesterday.
+-Tried making 'remove votes' pop the key from the dictionary but it does not remove votes. 
+
+2016-06-10:
+In Class:
+-Fixed the 'add friend' part in search.py.
+
+2016-06-11:
+At Home:
+-Started on CSS:
+	-Made toast background for createaccount.py / login.py / createaccount.py
+	-Made transparent boxes.
+
+2016-06-12:
+At Home:
+-Merged Stanley's revised version of his part of his code.
+-Continued on CSS:
+	-revised the toast background portion and transparent boxes for .py files.
+	-made a navigation bar.
+	-started to delete the inbox/group wigets previously found on the right side of the page.
+	-started to delete the 'Go back to profile' / add friends / logout / search bar .
+	-^ all of these deletions were replaced in the navigation bar.

@@ -1,0 +1,9 @@
+toast gif: http://giphy.com/gifs/gal-toaster-shir-d6UOUSV9zlokw
+toast background1: http://www.themesltd.com/headers2/cute_slices_of_toast_and_melting_butter.png
+toast background2: http://66.media.tumblr.com/8e73f96fdbd7fd64629f60937a45b6a0/tumblr_nnq275WRzl1uosmx1o1_1280.jpg
+
+translucent box: http://www.w3schools.com/css/tryit.asp?filename=trycss_transparency
+	-http://stackoverflow.com/questions/15449280/html-css-text-background-transparent-but-text-not
+
+link buttons: http://stackoverflow.com/questions/710089/how-do-i-make-an-html-link-look-like-a-button
+navigation bar: http://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_dividers
